@@ -1,0 +1,27 @@
+{
+  "name": "DataStructuresAndAlgorithms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage --verbose", 
+    "watch": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LillyMcBride2/DataStructuresAndAlgorithms.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LillyMcBride2/DataStructuresAndAlgorithms/issues"
+  },
+  "homepage": "https://github.com/LillyMcBride2/DataStructuresAndAlgorithms#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.17.1",
+    "jest": "^26.1.0",
+    "mustache": "^4.0.1"
+  }
+}
